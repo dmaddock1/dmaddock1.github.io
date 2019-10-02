@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Etymology and Extracts: An Overview"
+tags: [melville,extracts]
+---
+
 "Call me Ishmael." is one of the most iconic and well-known first sentences in English letters. **And it is a lie**.
 
 Chapter 1 is a beautiful piece of writing and an evocative introduction to our narrator, but the true first line of _Moby-Dick: Or, The Whale_ is:
