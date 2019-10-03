@@ -6,7 +6,7 @@ tags: [inklings, religion]
 ---
 Sorina over at _The Oddest Inkling_ tweeted a link to [a great review](http://www.vintagenovels.com/2014/12/witchcraft-by-charles-williams.html) of Charles Williams’ _Witchcraft_ over at the Vintage Novels blog. I [read and reviewed]({% post_url 2015-05-23-witchcraft %}) the book in May, but Vintage Novels’ review prompted me to further explain my reaction to the book which I’ve copied here for my own future reference.
 
-I read _Witchcraft _back in May and while I appreciated Williams' treatment of the subject, I found the case made for the existence of a continuous, coherent occult tradition extremely flimsy.
+I read _Witchcraft_ back in May and while I appreciated Williams' treatment of the subject, I found the case made for the existence of a continuous, coherent occult tradition extremely flimsy.
 
 The early section on pre-Christian paganism and folk belief was solid as were the historically late sections on de Rais and La Voisin, but the threads connecting these are extremely tenuous and better explained as pious inventions that were emulated by psychopaths and hucksters rather than the other way around.
 
