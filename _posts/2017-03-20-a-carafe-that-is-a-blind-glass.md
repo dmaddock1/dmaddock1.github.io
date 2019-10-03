@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Carafe, That is a Blind Glass (An Interpretation)"
+categories: [books]
 tags: [poetry]
 ---
 In my last post I reviewed Gertrude Stein's poetry collection, _Tender Buttons_. It is a collection of prose poems about mundane objects, but described in very obtuse ways. It is split into three sections: Objects, Food, and Rooms.

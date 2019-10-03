@@ -1,10 +1,53 @@
-title: Dave Maddock
-tagline: ''
-url: http://davemaddock.com
+# Site Info
+title: David Maddock
+tagline: 'Books and Code &middot; A Miscellany'
+description: 'The personal website of David Maddock.'
 baseurl: ''
+url: http://davemaddock.com
+logo: '/public/logo.png'
 
+# Site configurations
+gems:
+  - jekyll-paginate
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
 
-tag_page: '/blog/tags'
-category_page: '/blog/categories'
+version: 1.0.0
+
+# About/contact
+author:
+  name: David Maddock
+  description: Passionate about geospatial data, blockchain, autonomous systems, digital humanities, and beautiful code.
+  gravatar: 4baf3be8f464f1ed6140b43b7afffa9c # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/david-maddock-5159345
+    github:    https://github.com/dmaddock1
+    twitter:   https://twitter.com/dmaddock1
+    email:     https://mailhide.io/e/BJgSa
+
+# Navigation (2nd level links supported)
+nav:
+  Home:
+    - '/'
+  Blog:
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:
+    - '/about/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: /public/img/transcendent.jpg
+  caption: <i>Moby Dick Transcendent</i> by Rockwell Kent, 1930

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Beautiful, Pointer Hell: Tender Buttons, by Gertrude Stein (A Review)"
+categories: [books, reviews]
 tags: [poetry]
 ---
 I can't blame anyone for hating this book and its pretension. Stein was down with the whole "meta" hipster, overly self-aware, pseudo-intellectual, ironically un-ironic mentality way before it was cool. Perhaps it is even fair to describe this book and the sort of art it represents as dead-end, navel-gazing, mental masturbation. 99% of this kind of thing is utter garbage and not worth your time. _Tender Buttons_ is that other 1%.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Talk to Me About Religion"
+categories: [booklists, diatribes]
 tags: [religion]
 ---
 Of course, you're free to talk about religion however you want. But, if you want to do it with me here are six tips that will insure it will be a pleasant experience for both of us.

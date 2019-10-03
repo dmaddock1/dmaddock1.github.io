@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My All-Time Top 5 Books"
+categories: [books, booklists]
 tags: [books]
 ---
 Here are my personal top 5 favorite books in the order in which I discovered them.
@@ -31,14 +32,14 @@ Whenever I read that I want to stand up and shout “Yes! YES!” like Rodney Da
 
 >I depart as air, I shake my white locks at the runaway sun,
 > I effuse my flesh in eddies, and drift it in lacy jags.
-> 
+>
 >I bequeath myself to the dirt to grow from the grass I love,
 > If you want me again look for me under your boot-soles.
-> 
+>
 >You will hardly know who I am or what I mean,
 > But I shall be good health to you nevertheless,
 > And filter and fibre your blood.
-> 
+>
 > Failing to fetch me at first keep encouraged,
 > Missing me one place search another,
 > I stop somewhere waiting for you.

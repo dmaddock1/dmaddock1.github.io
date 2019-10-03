@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Etymology and Extracts: An Overview"
+categories: [Loomings]
 tags: [melville,extracts]
 ---
 

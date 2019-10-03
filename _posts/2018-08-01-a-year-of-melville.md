@@ -1,3 +1,9 @@
+---
+layout: post
+title: 'A Year of Melville'
+categories: [Loomings]
+tags: [melville]
+---
 I've joked with a friend that if I were to ever seriously maintain a blog I would call it _Loomings_ and fill it with rantings about one of my favorite books, _Moby-Dick_.
 
 Well, today he pointed me to [this interesting article](https://daily.jstor.org/herman-melville-can-teach-bob-dylan-plagiarism/) with the following jibe:
