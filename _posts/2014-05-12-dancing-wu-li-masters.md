@@ -1,0 +1,15 @@
+---
+layout: post
+title: "The Dancing Wu Li Masters, by Gary Zukav (A Review)"
+categories: [books, reviews]
+tags: [religion]
+---
+> [The] history of science in general often has been the story of scientists vigorously fighting an onslaught of new ideas. This is because it is difficult to relinquish the sense of security that comes from a long and rewarding acquaintance with a particular world view. (p. 191)
+
+...criticizes the guy promoting eastern mysticism which, by his own admission, hasn't changed much since the 2nd c. AD (p. 312). Good thing _he_ doesn't have the character flaw of feeling safe in a particular world view, unlike those foolish _scientists_ who are always grappling with new ideas... What a crock of shit.
+
+At first I thought the whole "quantum weirdness is, like, totally Zen, man" attitude was just the eccentric conceit of an aged hippy physics enthusiast. Turns out, that _it is_ his entire argument. He misses no opportunity to claim that quantum mechanics and Buddhism are talking about the same thing because occasionally they seem vaguely similar. The book is divided into twelve chapters--all numbered chapter one--across six parts--all numbered part one. This gives you an idea of what passes for profundity here. I should have guessed as much since the book was published under Bantam's "New Age" label, but the positive quote from Martin Gardner on the back made me hope it transcended the label. In hindsight, I suspect this quote was taken out of context and/or Gardner regretted making it.
+
+While large chunks of the book are pretty good explanations of various concepts in physics, it is fatally marred by horrible pseudo-scientific nonsense and faulty reasoning. To give you one example, he cites [quantum entanglement](http://en.wikipedia.org/wiki/Quantum_entanglement) as evidence for telepathy. Yet, even granting every point he makes this explanation utterly fails. First, it has been shown that such quantum effects cannot be controlled. He buries this fact in a footnote (p. 296) and yet implies throughout the book that quantum mechanics says we can control reality with our consciousness. Even ignoring this fatal flaw, entanglement is a link between specific particles. In order for two minds to communicate this way, linked particles would have to inhabit the two specific minds that wish to communicate in exactly the correct place of the brain, etc. This happenstance is so unlikely as to never occur and if it did it would be detectable by rigorous experiment. Certainly it doesn't explain psychics who claim to be able to read many minds yet fail under rigorous experiment and suchlike supernatural claims.
+
+I award two stars, which is frankly over-generous to the book as a unity, on the grounds that I did enjoy some of the pure physics exposition. I debated even putting this on my 'science' shelf in Goodreads because at its heart it is anti-science in the same way that [CS Lewis' Space Trilogy is un-science-fiction]({% post_url 2015-11-02-perelandra %}). By the way, the book was recommended to me by the Baha'i gentleman I mentioned in [a prior review]({% post_url 2014-04-17-the-bahai-faith %}).
