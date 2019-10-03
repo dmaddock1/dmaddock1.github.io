@@ -2,7 +2,7 @@
 layout: post
 title: "Typology and Tolkien"
 categories: [books, diatribes]
-tags: [inklings, religion, philosophy, fantasy]
+tags: [inklings, religion, fantasy]
 ---
 In a prior post I alluded to a question I asked in a class on C.S. Lewis and J.R.R. Tolkien that the instructor dodged because it was religious in nature. The instructor encouraged us to view the themes and motifs that recur in Tolkien's work over time in [typological terms](https://en.wikipedia.org/wiki/Typology_%28theology%29). My question was:
 

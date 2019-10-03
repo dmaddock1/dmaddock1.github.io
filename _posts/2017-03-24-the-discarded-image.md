@@ -2,7 +2,7 @@
 layout: post
 title: 'The Discarded Image, by C.S. Lewis (A Review)'
 categories: [books, reviews]
-tags: [religion, philosophy]
+tags: [inklings, religion, philosophy]
 ---
 A few general comments and then I will expound at length about my quibbles. First, this book is a phenomenal introduction to what Lewis calls the "Medieval Model"--the medieval world view. This should really be required reading before embarking on any study of the literature or history of that period.
 

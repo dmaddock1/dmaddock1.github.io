@@ -2,7 +2,7 @@
 layout: post
 title: "Spirits in Bondage: A Cycle of Lyrics, by C.S. Lewis (A Review)"
 categories: [books, reviews]
-tags: [poetry, religion]
+tags: [inklings, poetry, religion]
 ---
 I quite enjoyed reading this little collection of early poems, although the poetry is merely decent bordering on bad. For instance, he uses the forced "the XXX green" (where XXX is a noun of something from Nature) about 10 times to end a rhyming line. Here's the most cringe-worthy abuse of syntax: "His eyes stared into the eyes of me / And he kissed my hands of his courtesy." The _eyes of me_, LOL.
 

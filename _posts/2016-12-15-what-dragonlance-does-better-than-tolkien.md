@@ -2,7 +2,7 @@
 layout: post
 title: "What Dragonlance does better than Tolkien"
 categories: [books]
-tags: [books, tolkien, fantasy]
+tags: [inklings, fantasy]
 ---
 I was a _Dragonlance_ fan as a kid well before I had even heard of Tolkien. While I appreciate Tolkien as an adult, even thinking back today I believe I would’ve still preferred _Dragonlance_ in middle school. It is simply less pretentious. I have started re-reading the _Chronicles_ trilogy (I’m into _Dragons of Winter Night_ at the moment) and am aware how terrible the writing is. However, at the same time I am noticing that sometimes _Dragonlance_ does something better than Tolkien.
 

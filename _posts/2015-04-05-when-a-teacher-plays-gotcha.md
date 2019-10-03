@@ -2,7 +2,7 @@
 layout: post
 title: "When a teacher plays 'gotcha': A case study with an Easter theme"
 categories: [books, diatribes]
-tags: [inklings, religion]
+tags: [inklings, religion, fantasy]
 ---
 I recently tried re-reading _The Lion, the Witch, and the Wardrobe_ in Spanish. I couldn't make it past chapter three because I got bored and was too aware that the plot suffers the deeper one reads. However, reading the first two chapters in a foreign language reminded me just how fantastic those two chapters are. (Re-reading something in a different language is as close as you can get to the experience of reading something for the first time.)
 

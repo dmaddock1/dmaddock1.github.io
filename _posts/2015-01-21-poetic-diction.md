@@ -2,7 +2,7 @@
 layout: post
 title: "Poetic Diction, by Owen Barfield (A Review)"
 categories: [books, reviews]
-tags: [religion, philosophy]
+tags: [inklings, religion, philosophy]
 ---
 This is a difficult book to review. Its arguments are complex, broad in scope and application, and ironically reductive. On the face of it, it is a meditation on a line from Emerson--"Language is fossil poetry" (from "The Poet")--that is taken so far to the extreme that it breaks.
 
