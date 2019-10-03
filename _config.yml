@@ -1,8 +1,10 @@
-name: Dave Maddock
+title: Dave Maddock
+tagline: ''
+url: http://davemaddock.com
+baseurl: ''
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-baseurl: "/"
-url: http://davemaddock.com
 
 tag_page: '/blog/tags'
 category_page: '/blog/categories'
