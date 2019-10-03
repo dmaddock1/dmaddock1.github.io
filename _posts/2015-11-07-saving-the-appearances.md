@@ -22,7 +22,7 @@ He goes on to develop his idea of the evolution of consciousness, which goes som
 
 If you think the above is a clever bit of psychologizing but seriously flawed as a metaphysical theory, well Barfield says that's just because you are an idolator. You are in thrall to the idols of the scientific revolution, which has destroyed participation altogether and offered nothing in return.
 
-Barfield claims at the outset that "this is not a book about metaphysics" and then goes on to base his entire thesis on a dodgy metaphysics, having disposed himself of the necessity to justify his metaphysical assumptions. Let us grant him his entire system without the underlying metaphysics. Now ask, "why is participation better? What if a ~falling tree~ rainbow _does_ make a ~sound~ sight?" In that case, non-participation is entirely valid, possibly superior.
+Barfield claims at the outset that "this is not a book about metaphysics" and then goes on to base his entire thesis on a dodgy metaphysics, having disposed himself of the necessity to justify his metaphysical assumptions. Let us grant him his entire system without the underlying metaphysics. Now ask, "why is participation better? What if a ~~falling tree~~ rainbow _does_ make a ~~sound~~ sight?" In that case, non-participation is entirely valid, possibly superior.
 
 There is _a lot_ more I could critique (especially his attacks on science), but I will leave that for another day. I've already made some relevant points in my reviews of [_Poetic Diction_]({% post_url 2015-01-21-poetic-diction %}) and CSL's [_The Discarded Image_]({% post_url 2017-03-24-the-discarded-image %}) (the latter cites this book).
 
