@@ -6,7 +6,7 @@ tags: [language]
 ---
 > Note: This was originally posted in the [How to Learn Any Language forum](http://how-to-learn-any-language.com)
 
-Well, it's been almost three years since [I wrote the above]({% post_url | 2010-05-24-in-it-for-the-literature %}). I don't post much on HTLAL anymore. Instead, the time I was spending here learning how to learn languages I now use for actually learning them. ;-) But I'm proud that I've earned more votes on the site than I have number of posts. Hopefully that means I've given back a little of the wisdom I've acquired here.
+Well, it's been almost three years since [I wrote the above]({% post_url 2010-05-24-in-it-for-the-literature %}). I don't post much on HTLAL anymore. Instead, the time I was spending here learning how to learn languages I now use for actually learning them. ;-) But I'm proud that I've earned more votes on the site than I have number of posts. Hopefully that means I've given back a little of the wisdom I've acquired here.
 
 Here's some of what I've accomplished since I began back on 2010 as a monolingual American:
 

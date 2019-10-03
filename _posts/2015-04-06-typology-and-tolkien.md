@@ -4,7 +4,7 @@ title: "Typology and Tolkien"
 categories: [books, diatribes]
 tags: [inklings, religion, fantasy]
 ---
-In a prior post I alluded to a question I asked in a class on C.S. Lewis and J.R.R. Tolkien that the instructor dodged because it was religious in nature. The instructor encouraged us to view the themes and motifs that recur in Tolkien's work over time in [typological terms](https://en.wikipedia.org/wiki/Typology_%28theology%29). My question was:
+In a [prior post]({% post_url 2015-04-05-when-a-teacher-plays-gotcha %}) I alluded to a question I asked in a class on C.S. Lewis and J.R.R. Tolkien that the instructor dodged because it was religious in nature. The instructor encouraged us to view the themes and motifs that recur in Tolkien's work over time in [typological terms](https://en.wikipedia.org/wiki/Typology_%28theology%29). My question was:
 
 > Much typology in the New Testament is "reverse engineered" from the OT by its authors (if you will excuse the term). In your examples, most seemed ascribed either to intention of a character (eg. Aragorn) or just generally from Tolkien himself in narration (eg. Theoden's ride). How much of his use of typology might we attribute to the meta-framework? In other words, did Tolkien intend this to be the result of Bilbo, Frodo, and scribes of Gondor in the 4th age re-interpreting and harmonizing old lore and new history like the gospel writers did?
 
