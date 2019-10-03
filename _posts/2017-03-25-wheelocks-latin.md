@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wheelock's Latin (7th edition), by Wheelock & LaFleur (A Review)'
+title: "Wheelock's Latin (7th edition), by Wheelock & LaFleur (A Review)"
 categories: [books, reviews]
 tags: [language, latin]
 ---
