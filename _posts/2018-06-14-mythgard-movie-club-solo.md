@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Mythgard Movie Club, Solo: A StarWars Story"
-categories: [scholarship]
-tags: [video, language]
+title: "Mythgard Movie Club, Solo: A Star Wars Story"
+tags: [video]
 ---
 My appearance as a panelist on the _Mythgard Movie Club_, episode 6 about _Solo: A Star Wars Story_.
 
