@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Learning Esperanto for the literature"
-tags: [video, language]
+categories: [books]
+tags: [language, esperanto, video]
 ---
 I discuss why I decided to learn Esperanto--for its interesting body of original literature.
 

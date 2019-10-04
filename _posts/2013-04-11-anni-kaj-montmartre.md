@@ -2,7 +2,7 @@
 layout: post
 title: "Anni kaj Montmartre de Raymond Schwartz"
 categories: [books, reviews]
-tags: [language, video]
+tags: [language, esperanto, video]
 ---
 I discuss Raymond Schwartz's Esperanto novella Anni kaj Montmartre and read a few of his poems.
 

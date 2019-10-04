@@ -2,7 +2,7 @@
 layout: post
 title: "The Baha'i Faith: An Introduction, by Gloria Faizi (A Review)"
 categories: [books, reviews]
-tags: [religion]
+tags: [religion, esperanto]
 ---
 I first heard about the Baha'i Faith through my experience with Esperanto. (The two have some ideological overlap and Baha'is believe in a coming universal language, hence many have learned Esperanto.) However, I picked up this little book because I met a Baha'i at a dinner party and wanted to know a bit about it. At just over 100 pages with equal parts exposition and selections from their founding writings, it was exactly what I was looking for. It is divided into three parts. Part One tells the history of the Faith. Part Two explains its primary tenets. Part Three describes how its institutions operate.
 

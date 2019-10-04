@@ -2,7 +2,7 @@
 layout: post
 title: "Update to In It For the Literature"
 categories: [scholarship]
-tags: [language]
+tags: [language, esperanto]
 ---
 > Note: This was originally posted in the [How to Learn Any Language forum](http://how-to-learn-any-language.com)
 

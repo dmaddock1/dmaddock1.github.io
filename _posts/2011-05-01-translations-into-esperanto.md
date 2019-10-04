@@ -2,7 +2,7 @@
 layout: post
 title: "Translations into Esperanto"
 categories: [books]
-tags: [language, video]
+tags: [language, esperanto, video]
 ---
 Smaller national languages are better represented in Esperanto than in English. Also, I show off some of my Esperanto books.
 
