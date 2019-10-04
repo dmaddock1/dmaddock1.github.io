@@ -14,7 +14,7 @@ Every morning I wake up alone.<br/>
 I try instead to pull myself out of bed.<br/>
 When I know your gone...<br/>
 The distance between you and me<br/>
-grows far beyond a point that I can see.
+Grows far beyond a point that I can see.
 
 Not used to being alone.<br/>
 You look the same, but there's dust on the frame<br/>
