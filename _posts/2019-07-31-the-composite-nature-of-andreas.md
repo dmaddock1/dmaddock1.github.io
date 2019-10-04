@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Composite Nature of _Andreas_"
+title: "The Composite Nature of Andreas"
 categories: [scholarship]
 tags: [language, poetry, old english]
 ---
