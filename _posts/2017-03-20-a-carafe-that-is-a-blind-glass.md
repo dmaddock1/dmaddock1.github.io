@@ -26,6 +26,6 @@ Remember, this is a poem not a photograph like the one I've included above. This
 
 **All this and not ordinary.** When pondering the carafe in this way makes you notice the deeper nature of language it takes on **all this** meaning and thus is no longer just an ordinary object.
 
-**Not unordered in not resembling.** When you see the object in this new way it seems different. It no longer "resembles" itself, but yet it still has order and meaning to it. Likewise, the might use words and syntax in an unconventional way, but this is not to say that they have no intended meaning behind them.
+**Not unordered in not resembling.** When you see the object in this new way it seems different. It no longer "resembles" itself, but yet it still has order and meaning to it. Likewise, the poem might use words and syntax in an unconventional way, but this is not to say that they have no intended meaning behind them.
 
 **The difference is spreading.** When you see the lesson of the poem, you start to notice it more... like the feeling you get by saying a common word over and over until it sounds foreign and weird. That feeling spreads throughout this collection like the refracted and distorted light through a blind glass, that is a carafe.
