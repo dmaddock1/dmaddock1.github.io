@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Fajron Sentas Mi Interne, by Ulrich Matthias"
+title: "Fajron Sentas Mi Interne, by Ulrich Matthias (A Review)"
 categories: [books, reviews]
-tags: [novel, esperanto]
+tags: [novels, esperanto]
 ---
 This short novel is a coming of age story about an abused, alienated young man who attempts to find human connection through learning Esperanto and joining the Esperanto cultural movement. It was well-written, but alas, I am really too old these days to identify with the protagonist.
 
