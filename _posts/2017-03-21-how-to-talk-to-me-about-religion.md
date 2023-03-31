@@ -65,7 +65,7 @@ To this end, below are some suggestions of books that I can say fairly represent
 
 * **Wisdom**: [*The Pleasure of Finding Things Out](https://www.youtube.com/watch?v=Bgaw9qe7DEE), Feynman‡; [The Believing Brain](http://amzn.to/2nin3cF), Shermer
 
-* **Poetry**: [*Leaves of Grass - 1st edition](http://amzn.to/2n9H7h7), Whitman; [*The Love Song of J Alfred Prufrock](http://amzn.to/2nwyLky), T.S. Eliot
+* **Poetry**: [*Leaves of Grass (1st edition)](http://amzn.to/2n9H7h7), Whitman; [*The Love Song of J Alfred Prufrock](http://amzn.to/2nwyLky), T.S. Eliot
 
 * **Prophecy**: [The Rational Optimist](http://amzn.to/2nitcps), Ridley; [Economics in One Lesson](http://amzn.to/2nGaQzp), Hazlitt; [*Pale Blue Dot](http://amzn.to/2n9ED28), Sagan
 
