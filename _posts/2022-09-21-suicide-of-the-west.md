@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Suicide of the West, by James Burnham"
+title: "Suicide of the West, by James Burnham (A Review)"
 categories: [books, reviews]
 tags: [politics]
 ---
